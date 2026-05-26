@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Natalia Santos 🚀
 
 💼 Tenho experiência nas áreas administrativa, financeira e RH.
-💻 Atualmente estou realizando um curso de desenvolvimento Front-end e buscando transição de carreira para a área de tecnologia.
+💻 Atualmente estou realizando um curso de desenvolvimento Front-end pelo Instituto PROA em parceria com a Serasa Experian e buscando transição de carreira para a área de tecnologia.
 🚀 Estou constantemente me aperfeiçoando e desenvolvendo novas habilidades no universo da programação e design.
 
 ---
@@ -77,7 +77,8 @@
 
 # ✨ Objetivo
 
-Busco evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades em desenvolvimento web e design.
+Busco realizar minha transição para a área de TI e me dedicar cada vez mais ao desenvolvimento das minhas habilidades em tecnologia.
+Ainda estou no início da minha jornada, mas através dos cursos e projetos que venho desenvolvendo, procuro adquirir conhecimento, evoluir constantemente e crescer profissionalmente na área.
 
 ---
 
