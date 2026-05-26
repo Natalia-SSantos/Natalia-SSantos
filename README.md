@@ -94,6 +94,7 @@ Ainda estou no início da minha jornada, mas através dos cursos e projetos que 
 
 <div align="center">
 
-“A tecnologia move o mundo.” – Steve Jobs
+“Grandes conquistas começam com a decisão de tentar.”
+“Persistência é o caminho do aprendizado.”
 
 </div>
