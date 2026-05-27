@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Natalia Santos 🚀
 
 💼 Tenho experiência nas áreas administrativa, financeira e RH.
-💻 Atualmente estou realizando um curso de desenvolvimento Front-end pelo Instituto PROA em parceria com a Serasa Experian e buscando transição de carreira para a área de tecnologia.
+💻 Atualmente estou realizando um curso de desenvolvimento Front-end pelo Instituto PROA em parceria com a Serasa Experian o Trasforme-se e buscando transição de carreira para a área da tecnologia.
 🚀 Estou constantemente me aperfeiçoando e desenvolvendo novas habilidades no universo da programação e design.
 
 ---
