@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Natalia Santos 🚀
+# 👋 Olá, eu sou a Natalia Santos - Seja Bem-Vindo(a) ao meu Perfil!🚀
 
 💼 Tenho experiência nas áreas administrativa, financeira e RH.
 💻 Atualmente estou realizando um curso de desenvolvimento Front-end pelo Instituto PROA em parceria com a Serasa Experian o Trasforme-se e buscando transição de carreira para a área da tecnologia.
